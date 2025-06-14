@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm [Po]  
 ### **Blockchain Developer | Smart Contract Engineer | Web3 Enthusiast**  
 
 🚀 Building decentralized futures with **Solidity, Rust, and Web3** tech.  
@@ -23,14 +23,9 @@
 ---
 
 ## 🔥 **Featured Projects**  
-1. **[DeFi Lending Protocol](https://github.com/your-repo)**  
-   - Built with Solidity & Hardhat; supports flash loans and yield farming.  
-2. **[NFT Marketplace](https://github.com/your-repo)**  
-   - Mint, trade, and auction NFTs (ERC-721/1155) with MetaMask integration.  
-3. **[Cross-Chain Bridge](https://github.com/your-repo)**  
-   - Token transfers between Ethereum and Polygon using LayerZero.  
-
-[**View All Projects →**](https://github.com/Po1015?tab=repositories)  
+1. **[Presale Contract](https://github.com/ricContract)**  
+   - Built with Solidity for presale.  
+ [**View All Projects →**](https://github.com/Po1015?tab=repositories)  
 
 ---
 
@@ -43,7 +38,7 @@
 ## 📫 **Let's Connect**  
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)  
 - LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)  
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+- Portfolio: [legendarypo.com](https://legendarypo.com)  
 
 ---
 
