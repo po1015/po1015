@@ -36,8 +36,7 @@
 ---
 
 ## 📫 **Let's Connect**  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)  
+- LinkedIn: [Po](https://linkedin.com/in/Po)  
 - Portfolio: [legendarypo.com](https://legendarypo.com)  
 
 ---
