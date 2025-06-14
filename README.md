@@ -30,7 +30,7 @@
 3. **[Cross-Chain Bridge](https://github.com/your-repo)**  
    - Token transfers between Ethereum and Polygon using LayerZero.  
 
-[**View All Projects →**](https://github.com/your-username?tab=repositories)  
+[**View All Projects →**](https://github.com/Po1015?tab=repositories)  
 
 ---
 
@@ -47,7 +47,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Po1015&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Po1015&layout=compact&theme=radical)  
 
 > *"Code is law. Let’s build a trustless future together."*  
