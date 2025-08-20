@@ -32,7 +32,8 @@
 
 ## 📝 **Blog & Talks**  
 - [How to Optimize Gas Costs in Solidity](https://your-blog-link)  
-- [Building on Solana: PDA Deep Dive](https://your-blog-link)  
+- [Building on Solana: PDA Deep Dive]
+  alksjfhdlaksjhdflkajshdlf  
 
 ---
 
