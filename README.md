@@ -37,7 +37,7 @@
 ---
 
 ## 📫 **Let's Connect**  
-- LinkedIn: [Po](https://linkedin.com/in/Po)  
+- TELEGRAM:  @po_legendary 
 - Portfolio: [legendarypo.com](https://legendarypo.com)  
 
 ---
