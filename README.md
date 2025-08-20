@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Po  
+# 👋 Hi, I'm [Po]  
 ### **Blockchain Developer | Smart Contract Engineer | Web3 Enthusiast**  
 
 🚀 Building decentralized futures with **Solidity, Rust, and Web3** tech.  
@@ -8,7 +8,7 @@
 
 ## 🛠️ **Tech Stack**  
 ### **Blockchain**  
-- **Languages**: Solidity, Rust(Solana), Vyper, Move  
+- **Languages**: Solidity, Rust (Solana), Vyper  
 - **Frameworks**: Hardhat, Foundry, Anchor, Brownie  
 - **Protocols**: EVM, Solana SPL, Cosmos SDK  
 - **Oracles**: Chainlink, Band Protocol  
@@ -23,8 +23,9 @@
 ---
 
 ## 🔥 **Featured Projects**  
-1. **[Presale Contract](https://github.com/ricContract)**  
-   - Built with Solidity for presale.  
+1. RIC Presale(https://ric-coin.com/)
+2. SUI Staking(https://sui-staking-eight.vercel.app)
+3. Wallet Analysis Tool(https://wallet-analyzer-seven.vercel.app/) 
  [**View All Projects →**](https://github.com/Po1015?tab=repositories)  
 
 ---
@@ -36,7 +37,7 @@
 ---
 
 ## 📫 **Let's Connect**  
-- Telegram:  @po_legendary 
+- LinkedIn: [Po](https://linkedin.com/in/Po)  
 - Portfolio: [legendarypo.com](https://legendarypo.com)  
 
 ---
