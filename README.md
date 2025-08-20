@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Po]  
+# 👋 Hi, I'm Po  
 ### **Blockchain Developer | Smart Contract Engineer | Web3 Enthusiast**  
 
 🚀 Building decentralized futures with **Solidity, Rust, and Web3** tech.  
@@ -8,7 +8,7 @@
 
 ## 🛠️ **Tech Stack**  
 ### **Blockchain**  
-- **Languages**: Solidity, Rust (Solana), Vyper  
+- **Languages**: Solidity, Rust (Solana), Vyper, Move
 - **Frameworks**: Hardhat, Foundry, Anchor, Brownie  
 - **Protocols**: EVM, Solana SPL, Cosmos SDK  
 - **Oracles**: Chainlink, Band Protocol  
@@ -31,9 +31,9 @@
 ---
 
 ## 📝 **Blog & Talks**  
-- [How to Optimize Gas Costs in Solidity](https://your-blog-link)  
-- [Building on Solana: PDA Deep Dive]
-  alksjfhdlaksjhdflkajshdlf  
+- [How to Optimize Gas Costs in Solidity](https://po-blog-link)  
+- [Building on Solana: PDA Deep Dive](https://po-blog-link)
+   
 
 ---
 
