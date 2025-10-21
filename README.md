@@ -25,7 +25,9 @@
 ## 🔥 **Featured Projects**  
 1. RIC Presale(https://ric-coin.com/)
 2. SUI Staking(https://sui-staking-eight.vercel.app)
-3. Wallet Analysis Tool(https://wallet-analyzer-seven.vercel.app/) 
+3. Wallet Analysis Tool(https://wallet-analyzer-seven.vercel.app/)
+4. NEBA sale(https://nebatoken.com/)
+5. Suiball(https://order.suiball.com/)
  [**View All Projects →**](https://github.com/Po1015?tab=repositories)  
 
 ---
